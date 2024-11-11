@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#city-list {
+    margin: 20px 0;
+}
+
+.city {
+    cursor: pointer;
+    color: blue;
+    text-decoration: underline;
+    margin: 5px 0;
+}
